@@ -24,4 +24,8 @@ ul > li {
 div#top {
     background-color: rgba(255, 6, 6, 0.763);
 }
+#locations { 
+    margin: 10px;
+    text-align: right;
+}
 
