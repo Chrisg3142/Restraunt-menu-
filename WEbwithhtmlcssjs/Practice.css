@@ -27,5 +27,6 @@ div#top {
 #locations { 
     margin: 10px;
     text-align: right;
+    border: 3px solid black;
 }
 
